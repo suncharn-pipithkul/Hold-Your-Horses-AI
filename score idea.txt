@@ -1,0 +1,18 @@
+check if a square is threathen by more knights than our knight protecting it
+
+If start first, prioritize attack
+else prioritize defense
+because move first have advantage
+
+check if any knights have a posiblity of getting check
+if there are then the owner of the knight has an advantage
+also check if any knights are attacked and not protected, the attacker has the advantage then
+
+
+(w1 * attack score) + (w2 * defense score)
+
+
+hard code the first few moves
+
+
+check if we move the horse then the apple get eaten then don't move (the horse is protecting the orange square & enemy can move there)
