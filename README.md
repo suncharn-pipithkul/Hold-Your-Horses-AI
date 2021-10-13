@@ -3,11 +3,11 @@ An AI for a modified chess game called "Hold Your Horses". <br/>
 This is part of UMB CS470/670 assignment.
 
 ## Table of contents
-* [Game Explanation](#Game Explanation)
+* [Game Explanation](#Explanation)
 * [Demo](#demo)
 * [Technologies](#Technologies)
 
-## Game Explanation
+## Explanation
 A 2 player chess-like game. Each player has 7 horses and 1 apple.<br/>
 The horses move like the knights in chess and the apple can't move <br/>
 The objective of the game is to capture opponent's apple or all opponent's horses before they capture yours <br/>
