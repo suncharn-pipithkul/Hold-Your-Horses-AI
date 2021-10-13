@@ -8,9 +8,9 @@ This is part of UMB CS470/670 assignment.
 * [Technologies](#Technologies)
 
 ## Game Explanation
-A 2 player chess-like game. Each player has 7 horses and 1 apple.<br/>
-The horses move like the knights in chess and the apple can't move <br/>
-The objective of the game is to capture opponent's apple or all opponent's horses before they capture yours <br/>
+A 2 player chess-like game. Each player has 7 horses and 1 apple.<br/><br/>
+The horses move like the knights in chess and the apple can't move. <br/>
+The objective of the game is to capture opponent's apple or all opponent's horses before they capture yours. <br/>
 If no player wins after a total of 40 moves (20 per player), the game is drawn.
 
 ## Demo
