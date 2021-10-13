@@ -1,5 +1,5 @@
 # Hold-Your-Horses-AI
-An AI for a modified chess game called "Hold Your Horses".__
+An AI for a modified chess game called "Hold Your Horses". <br/>
 This is part of UMB CS470/670 assignment.
 ## Table of contents
 * [Demo](#demo)
