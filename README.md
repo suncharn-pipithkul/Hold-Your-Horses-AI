@@ -1,11 +1,21 @@
 # Hold-Your-Horses-AI
 An AI for a modified chess game called "Hold Your Horses". <br/>
 This is part of UMB CS470/670 assignment.
+
 ## Table of contents
+* [Game Explanation](#Game Explanation)
 * [Demo](#demo)
 * [Technologies](#Technologies)
+
+## Game Explanation
+A 2 player chess-like game. Each player has 7 horses and 1 apple.<br/>
+The horses move like the knights in chess and the apple can't move <br/>
+The objective of the game is to capture opponent's apple or all opponent's horses before they capture yours <br/>
+If no player wins after a total of 40 moves (20 per player), the game is drawn.
+
 ## Demo
 -- incoming --
+
 ## Technologies
 Project is created with:
 * Python version 3.8.0
