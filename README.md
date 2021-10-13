@@ -3,7 +3,7 @@ An AI for a modified chess game called "Hold Your Horses". <br/>
 This is part of UMB CS470/670 assignment.
 
 ## Table of contents
-* [Game Explanation](#Game Explanation)
+* [Game Explanation](#GameExplanation)
 * [Demo](#demo)
 * [Technologies](#Technologies)
 
