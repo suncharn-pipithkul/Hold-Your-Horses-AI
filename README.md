@@ -15,10 +15,13 @@ The objective of the game is to capture opponent's apple or all opponent's horse
 If no player wins after a total of 40 moves (20 per player), the game is drawn.
 
 ## Demo
--- incoming --
+-- upcoming --
+
 
 ## Technologies
 Project is created with:
 * Python version 3.8.0
 * Numpy version 1.19.5
 * TKinter version 8.6
+
+
